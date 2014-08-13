@@ -1,0 +1,16 @@
+K:\Diploma\Stage 1\VB\New Sem\Assess1\ClassLibrary1\obj\Debug\ContesoLibrary.vbproj.GenerateResource.Cache
+K:\Diploma\Stage 1\VB\New Sem\Assess1\ClassLibrary1\bin\Debug\ContesoLibrary.dll
+K:\Diploma\Stage 1\VB\New Sem\Assess1\ClassLibrary1\bin\Debug\ContesoLibrary.pdb
+K:\Diploma\Stage 1\VB\New Sem\Assess1\ClassLibrary1\bin\Debug\ContesoLibrary.xml
+K:\Diploma\Stage 1\VB\New Sem\Assess1\ClassLibrary1\obj\Debug\ContesoLibrary.Resources.resources
+K:\Diploma\Stage 1\VB\New Sem\Assess1\ClassLibrary1\obj\Debug\ContesoLibrary.dll
+K:\Diploma\Stage 1\VB\New Sem\Assess1\ClassLibrary1\obj\Debug\ContesoLibrary.xml
+K:\Diploma\Stage 1\VB\New Sem\Assess1\ClassLibrary1\obj\Debug\ContesoLibrary.pdb
+E:\Diploma\Stage 1\VB\New Sem\Assess1\ClassLibrary1\bin\Debug\ContesoLibrary.dll
+E:\Diploma\Stage 1\VB\New Sem\Assess1\ClassLibrary1\bin\Debug\ContesoLibrary.pdb
+E:\Diploma\Stage 1\VB\New Sem\Assess1\ClassLibrary1\bin\Debug\ContesoLibrary.xml
+E:\Diploma\Stage 1\VB\New Sem\Assess1\ClassLibrary1\obj\Debug\ContesoLibrary.Resources.resources
+E:\Diploma\Stage 1\VB\New Sem\Assess1\ClassLibrary1\obj\Debug\ContesoLibrary.vbproj.GenerateResource.Cache
+E:\Diploma\Stage 1\VB\New Sem\Assess1\ClassLibrary1\obj\Debug\ContesoLibrary.dll
+E:\Diploma\Stage 1\VB\New Sem\Assess1\ClassLibrary1\obj\Debug\ContesoLibrary.xml
+E:\Diploma\Stage 1\VB\New Sem\Assess1\ClassLibrary1\obj\Debug\ContesoLibrary.pdb

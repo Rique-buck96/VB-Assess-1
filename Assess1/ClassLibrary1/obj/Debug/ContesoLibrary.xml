@@ -1,0 +1,191 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ContesoLibrary
+</name>
+</assembly>
+<members>
+<member name="M:ContesoLibrary.HRAuthentication.Login(System.String,System.String)">
+	<summary>
+ Handles HR level authentication.
+ </summary>
+	<param name="userName"></param>
+	<param name="passWord"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:ContesoLibrary.HRAuthentication.ShowEmployees">
+	<summary>
+ Returns the employees from the Conteso Database, to be displayed in a list.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:ContesoLibrary.HRAuthentication.GetEmployeeID(System.Int32)">
+	<summary>
+ Gets the ID field from the Employees table.
+ </summary>
+	<param name="index"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:ContesoLibrary.HRAuthentication.GetFirstName(System.Int32)">
+	<summary>
+ Gets the Employee's first name from the employees table.
+ </summary>
+	<param name="index"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:ContesoLibrary.HRAuthentication.GetLastName(System.Int32)">
+	<summary>
+ Gets the Employee's last name from the employees table.
+ </summary>
+	<param name="index"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:ContesoLibrary.HRAuthentication.GetDOB(System.Int32)">
+	<summary>
+ Gets the Employee's date of birth from the employees table.
+ </summary>
+	<param name="index"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:ContesoLibrary.HRAuthentication.GetSalary(System.Int32)">
+	<summary>
+ Gets the Employee's salary from the employees table.
+ </summary>
+	<param name="index"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:ContesoLibrary.HRAuthentication.SetFirstName(System.String,System.Int32)">
+	<summary>
+ Sets the Employee's first name.
+ </summary>
+	<param name="name"></param>
+	<param name="index"></param>
+	<remarks></remarks>
+</member><member name="M:ContesoLibrary.HRAuthentication.SetLastName(System.String,System.Int32)">
+	<summary>
+ Sets the Employees last name.
+ </summary>
+	<param name="name"></param>
+	<param name="index"></param>
+	<remarks></remarks>
+</member><member name="M:ContesoLibrary.HRAuthentication.SetDOB(System.String,System.Int32)">
+	<summary>
+ Sets the Employees date of birth.
+ </summary>
+	<param name="dOb"></param>
+	<param name="index"></param>
+	<remarks></remarks>
+</member><member name="M:ContesoLibrary.HRAuthentication.SetSalary(System.Decimal,System.Int32)">
+	<summary>
+ Sets the Employees salary.
+ </summary>
+	<param name="sal"></param>
+	<param name="index"></param>
+	<remarks></remarks>
+</member><member name="M:ContesoLibrary.HRAuthentication.AddUserEmployee(System.String,System.String,System.String,System.String,System.String,System.Int32,System.String)">
+	<summary>
+ Adds New users, with an employee access level.
+ </summary>
+	<param name="userName"></param>
+	<param name="passWord"></param>
+	<param name="firstNAme"></param>
+	<param name="lastName"></param>
+	<param name="dOb"></param>
+	<param name="salary"></param>
+	<param name="accessLevel"></param>
+	<remarks></remarks>
+</member><member name="M:ContesoLibrary.HRAuthentication.AddEmployee(System.String,System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Adds the new users with employee access level as Employees, to the Conteso database.
+ </summary>
+	<param name="firstName"></param>
+	<param name="lastName"></param>
+	<param name="dOb"></param>
+	<param name="salary"></param>
+	<param name="fKey"></param>
+	<remarks></remarks>
+</member><member name="M:ContesoLibrary.HRAuthentication.CheckUserName(System.String)">
+	<summary>
+ Checks the username, and matches it with a unique username from the database.
+ </summary>
+	<param name="userName"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:ContesoLibrary.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ContesoLibrary.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ContesoLibrary.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:ContesoLibrary.LoginHandling.LoginProcess(System.String,System.String)">
+	<summary>
+ Proprietry login algorithm, which differentiates the access level given to each client.
+ </summary>
+	<param name="userName"></param>
+	<param name="password"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:ContesoLibrary.EmployeeAuthentication.Login(System.String,System.String)">
+	<summary>
+ Handles Employee-level authentication.
+ </summary>
+	<param name="userName"></param>
+	<param name="passWord"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:ContesoLibrary.EmployeeAuthentication.ShowProducts">
+	<summary>
+ Function that collects product data and displays it to the client.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:ContesoLibrary.EmployeeAuthentication.ShowCustomers">
+	<summary>
+ Function that collects customer data and displays it to the client.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:ContesoLibrary.EmployeeAuthentication.GetProductName(System.Int32)">
+	<summary>
+ Function that gets the product name and displays it to the client, if it has been chosen by the client.
+ </summary>
+	<param name="index"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:ContesoLibrary.EmployeeAuthentication.GetProductDescription(System.Int32)">
+	<summary>
+ Function that gets the product description and displays it to the client, if it has been chosen by the client.
+ </summary>
+	<param name="index"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:ContesoLibrary.EmployeeAuthentication.GetProductQuantity(System.Int32)">
+	<summary>
+ Function that gets the product quantity and displays it to the client, if it has been chosen by the client.
+ </summary>
+	<param name="index"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:ContesoLibrary.EmployeeAuthentication.GetProductPrice(System.Int32)">
+	<summary>
+ Function that gets the product price and displays it to the client, if it has been chosen by the client.
+ </summary>
+	<param name="index"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:ContesoLibrary.EmployeeAuthentication">
+	<summary>
+ Employee class, that handles employee-level authentication.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

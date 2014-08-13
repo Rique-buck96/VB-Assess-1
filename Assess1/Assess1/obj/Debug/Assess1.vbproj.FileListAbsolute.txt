@@ -1,0 +1,41 @@
+E:\Diploma\Stage 1\VB\New Sem\Assess1\Assess1\bin\Debug\Assess1.exe.config
+K:\Diploma\Stage 1\VB\New Sem\Assess1\Assess1\bin\Debug\Assess1.exe.config
+D:\Diploma\Stage 1\VB\New Sem\Assess1\Assess1\bin\Debug\Assess1.exe.config
+E:\Diploma\Stage 1\VB\New Sem\Assess1\Assess1\bin\Debug\Assess1.exe
+E:\Diploma\Stage 1\VB\New Sem\Assess1\Assess1\bin\Debug\Assess1.pdb
+E:\Diploma\Stage 1\VB\New Sem\Assess1\Assess1\bin\Debug\Assess1.xml
+E:\Diploma\Stage 1\VB\New Sem\Assess1\Assess1\bin\Debug\ContesoLibrary.dll
+E:\Diploma\Stage 1\VB\New Sem\Assess1\Assess1\bin\Debug\ContesoLibrary.pdb
+E:\Diploma\Stage 1\VB\New Sem\Assess1\Assess1\bin\Debug\ContesoLibrary.xml
+E:\Diploma\Stage 1\VB\New Sem\Assess1\Assess1\obj\Debug\Assess1.vbprojResolveAssemblyReference.cache
+E:\Diploma\Stage 1\VB\New Sem\Assess1\Assess1\obj\Debug\Assess1.CustomerForm.resources
+E:\Diploma\Stage 1\VB\New Sem\Assess1\Assess1\obj\Debug\Assess1.Edit.CustomerEdit.resources
+E:\Diploma\Stage 1\VB\New Sem\Assess1\Assess1\obj\Debug\Assess1.EmployeeForm.resources
+E:\Diploma\Stage 1\VB\New Sem\Assess1\Assess1\obj\Debug\Assess1.Login.resources
+E:\Diploma\Stage 1\VB\New Sem\Assess1\Assess1\obj\Debug\Assess1.Menu.resources
+E:\Diploma\Stage 1\VB\New Sem\Assess1\Assess1\obj\Debug\Assess1.Resources.resources
+E:\Diploma\Stage 1\VB\New Sem\Assess1\Assess1\obj\Debug\Assess1.Edit.ProductEdit.resources
+E:\Diploma\Stage 1\VB\New Sem\Assess1\Assess1\obj\Debug\Assess1.vbproj.GenerateResource.Cache
+E:\Diploma\Stage 1\VB\New Sem\Assess1\Assess1\obj\Debug\Assess1.exe
+E:\Diploma\Stage 1\VB\New Sem\Assess1\Assess1\obj\Debug\Assess1.xml
+E:\Diploma\Stage 1\VB\New Sem\Assess1\Assess1\obj\Debug\Assess1.pdb
+C:\Users\Rique\Documents\Visual Studio 2013\Projects\VB Assess 1\Assess1\Assess1\bin\Debug\Assess1.exe.config
+C:\Users\Rique\Documents\Visual Studio 2013\Projects\VB Assess 1\Assess1\Assess1\obj\Debug\Assess1.exe
+C:\Users\Rique\Documents\Visual Studio 2013\Projects\VB Assess 1\Assess1\Assess1\obj\Debug\Assess1.xml
+C:\Users\Rique\Documents\Visual Studio 2013\Projects\VB Assess 1\Assess1\Assess1\obj\Debug\Assess1.pdb
+C:\Users\Rique\Documents\Visual Studio 2013\Projects\VB Assess 1\Assess1\Assess1\bin\Debug\Assess1.exe
+C:\Users\Rique\Documents\Visual Studio 2013\Projects\VB Assess 1\Assess1\Assess1\bin\Debug\Assess1.pdb
+C:\Users\Rique\Documents\Visual Studio 2013\Projects\VB Assess 1\Assess1\Assess1\bin\Debug\Assess1.xml
+C:\Users\Rique\Documents\Visual Studio 2013\Projects\VB Assess 1\Assess1\Assess1\bin\Debug\ContesoLibrary.dll
+C:\Users\Rique\Documents\Visual Studio 2013\Projects\VB Assess 1\Assess1\Assess1\bin\Debug\ContesoLibrary.pdb
+C:\Users\Rique\Documents\Visual Studio 2013\Projects\VB Assess 1\Assess1\Assess1\bin\Debug\ContesoLibrary.xml
+C:\Users\Rique\Documents\Visual Studio 2013\Projects\VB Assess 1\Assess1\Assess1\obj\Debug\Assess1.vbprojResolveAssemblyReference.cache
+C:\Users\Rique\Documents\Visual Studio 2013\Projects\VB Assess 1\Assess1\Assess1\obj\Debug\Assess1.CustomerForm.resources
+C:\Users\Rique\Documents\Visual Studio 2013\Projects\VB Assess 1\Assess1\Assess1\obj\Debug\Assess1.Edit.CustomerEdit.resources
+C:\Users\Rique\Documents\Visual Studio 2013\Projects\VB Assess 1\Assess1\Assess1\obj\Debug\Assess1.EmployeeForm.resources
+C:\Users\Rique\Documents\Visual Studio 2013\Projects\VB Assess 1\Assess1\Assess1\obj\Debug\Assess1.HRForm.resources
+C:\Users\Rique\Documents\Visual Studio 2013\Projects\VB Assess 1\Assess1\Assess1\obj\Debug\Assess1.Login.resources
+C:\Users\Rique\Documents\Visual Studio 2013\Projects\VB Assess 1\Assess1\Assess1\obj\Debug\Assess1.Menu.resources
+C:\Users\Rique\Documents\Visual Studio 2013\Projects\VB Assess 1\Assess1\Assess1\obj\Debug\Assess1.Resources.resources
+C:\Users\Rique\Documents\Visual Studio 2013\Projects\VB Assess 1\Assess1\Assess1\obj\Debug\Assess1.Edit.ProductEdit.resources
+C:\Users\Rique\Documents\Visual Studio 2013\Projects\VB Assess 1\Assess1\Assess1\obj\Debug\Assess1.vbproj.GenerateResource.Cache

@@ -1,0 +1,357 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Assess1
+</name>
+</assembly>
+<members>
+<member name="P:Assess1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Assess1.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Assess1.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Assess1.Edit.CustomerEdit.SaveButton_Click(System.Object,System.EventArgs)">
+	<summary>
+     Saves Customer information to the database.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.Edit.CustomerEdit.EvaluateCustomerString">
+	<summary>
+     Evaluates if all fields follow their datatypes and if they have information filled in.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Assess1.Edit.CustomerEdit.EvaluateUserUniqueness">
+	<summary>
+     Evaluates if the pending user's credentials are unique.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Assess1.Edit.CustomerEdit.ClearCustomerProperties">
+	<summary>
+     Clears all fields.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Assess1.Login.btnLogin_Click(System.Object,System.EventArgs)">
+	<summary>
+ Accepts a username and password from the user, and compares it with existing credentials on the database.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.EmployeeForm.ProductButton_Click(System.Object,System.EventArgs)">
+	<summary>
+     Makes the Product panel visible, for the user to edit, search or add products.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.EmployeeForm.CustomerButton_Click(System.Object,System.EventArgs)">
+	<summary>
+     Makes the Customer panel visible, for the user to edit, search or add customer information.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.EmployeeForm.LogoutButton_Click(System.Object,System.EventArgs)">
+	<summary>
+     Closes the EmployeeForm and goes back to the menu.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.EmployeeForm.EmployeeForm_FormClosed(System.Object,System.Windows.Forms.FormClosedEventArgs)">
+	<summary>
+     Opens the LoginForm when this form is closed.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.EmployeeForm.ProductEditButton_Click(System.Object,System.EventArgs)">
+	<summary>
+     Opens the ProductEdit form, to edit products.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.EmployeeForm.ProductAddButton_Click(System.Object,System.EventArgs)">
+	<summary>
+     Opens the ProductEdit form, to add products.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.EmployeeForm.CustomerEditButton_Click(System.Object,System.EventArgs)">
+	<summary>
+     Opens the CustomerEdit form, to edit customer information.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.EmployeeForm.AddCustomerButton_Click(System.Object,System.EventArgs)">
+	<summary>
+     Opens the CustomerEdit form, to add customer information.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.EmployeeForm.UpdateProductGrid">
+	<summary>
+     Updates the product information, in the DataGrid.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Assess1.EmployeeForm.UpdateCustomerGrid">
+	<summary>
+     Updates customer information, in the DataGrid.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Assess1.EmployeeForm.ProductIDTextBox_TextChanged(System.Object,System.EventArgs)">
+	<summary>
+     Allows the product index string to be used everywhere.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.EmployeeForm.CustomerIDTextBox_TextChanged(System.Object,System.EventArgs)">
+	<summary>
+     Allows the customer index string to be used everywhere.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.HRForm.btnShowEmployee_Click(System.Object,System.EventArgs)">
+	<summary>
+ Shows the employee data in the datagrid.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.HRForm.btnEdit_Click(System.Object,System.EventArgs)">
+	<summary>
+ Hides and presents certain controls.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.HRForm.txtEditID_TextChanged(System.Object,System.EventArgs)">
+	<summary>
+ Shows employee information, as soon as the employee's id has been entered.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.HRForm.btnSave_Click(System.Object,System.EventArgs)">
+	<summary>
+ Saves and updates employee information.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.HRForm.ClearFields">
+	<summary>
+ Clears text fields.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Assess1.HRForm.btnCancel_Click(System.Object,System.EventArgs)">
+	<summary>
+  Hides and presents controls.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.HRForm.btnAdd_Click(System.Object,System.EventArgs)">
+	<summary>
+ Hides and presents certain controls.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.HRForm.btnAddSave_Click(System.Object,System.EventArgs)">
+	<summary>
+ Saves new employees to the database.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.HRForm.btnAddCancel_Click(System.Object,System.EventArgs)">
+	<summary>
+ Hides and presents certain controls, when the employee registration session has been cancelled.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.HRForm.ClearAddFields">
+	<summary>
+ Clears Employee registration text fields.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Assess1.HRForm.btnLogout_Click(System.Object,System.EventArgs)">
+	<summary>
+ Logs out from the current account.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.HRForm.hrForm_FormClosed(System.Object,System.Windows.Forms.FormClosedEventArgs)">
+	<summary>
+ Closes the login form.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.Edit.ProductEdit.SaveButton_Click(System.Object,System.EventArgs)">
+	<summary>
+     Saves product information to the database.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.Edit.ProductEdit.EvaluateProductString">
+	<summary>
+     Evaluates if all fields follow their datatypes and have information assigned to each individual field.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Assess1.Edit.ProductEdit.ClearProductProperties">
+	<summary>
+     Clears all product fields.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Assess1.Menu.CustomerButton_Click(System.Object,System.EventArgs)">
+	<summary>
+ Opens the customer form.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.Menu.SalesButton_Click(System.Object,System.EventArgs)">
+	<summary>
+ Opens the Employee form.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.Menu.HRButton_Click(System.Object,System.EventArgs)">
+	<summary>
+ Opens the HR form.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.Menu.LogoutButton_Click(System.Object,System.EventArgs)">
+	<summary>
+ Logs a user out.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.FormOverride.OpenEditProduct">
+	<summary>
+ Presents the ProductEdit form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Assess1.FormOverride.CloseEditProduct">
+	<summary>
+ Closes the ProductEdit form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Assess1.FormOverride.OpenEditCustomer">
+	<summary>
+ Opens the CustomerEdit form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Assess1.FormOverride.CloseEditCustomer">
+	<summary>
+ Closes the CustomerEdit form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Assess1.FormOverride.LogoutAsHR">
+	<summary>
+ Presents the Login form, if a HR-level employee has logged out.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Assess1.FormOverride.LoginAsHR">
+	<summary>
+ Presents the HR form, if employee is HR-level.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Assess1.FormOverride.CloseLoginForm">
+	<summary>
+ Closes Login Form once authenticated.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Assess1.FormOverride.LogoutAsSales">
+	<summary>
+ Presents the Login form, if a sales-level employee has logged out.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Assess1.FormOverride.LoginAsSales">
+	<summary>
+ Presents the Employee form, if a sales-level employee has logged in.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Assess1.FormOverride.LogInAsCustomer">
+	<summary>
+ Presents the Customer form, if a customer has authenticated.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Assess1.FormOverride.LogOutAsCustomer">
+	<summary>
+ Presents the login form, if a customer has logged out.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Assess1.FormOverride.LoginAsAdmin">
+	<summary>
+ Admin login.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Assess1.FormOverride.LogoutAsAdmin">
+	<summary>
+ Admin logout function.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Assess1.FormOverride.AccessLevelVerification(System.String)">
+	<summary>
+ Verifies the access level of an employee, and presents a form suited to their access level.
+ </summary>
+	<param name="accessLevel"></param>
+	<remarks></remarks>
+</member><member name="M:Assess1.FormOverride.OpenCheckout">
+	<summary>
+ Presents the Checkout form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Assess1.FormOverride.OpenOrderHistory">
+	<summary>
+ Presents the Order History of a customer.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Assess1.FormOverride.EndCheckoutSession">
+	<summary>
+ If a customer has finished ordering, they will be presented the Customer form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Assess1.FormOverride.ExitCheckout">
+	<summary>
+ Presents the Customer form, if a customer wishes to exit the checkout form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Assess1.FormOverride.ExitHistory">
+	<summary>
+ Presents the Customer form, if a customer wishes to exit the order history form.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
